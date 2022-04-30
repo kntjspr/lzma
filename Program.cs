@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text;
 using System.Threading.Tasks;
 using System.Security.Cryptography;
@@ -16,7 +16,7 @@ namespace lzma
             string encryptionKey, extension;
             byte[] encryptionKeyBytes;
             CitadelMain.Mode conversionMode;
-            string defaultKey = "lzma"; //Change this value to change the defaultKey.
+            string defaultKey = "hkN!VEh+g=9rwxzZ"; //Change this value to change the defaultKey.
             #endregion
 
             /*       Other variable used      
