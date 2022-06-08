@@ -6,6 +6,7 @@ using System.Security.Cryptography;
 
 namespace lzma
 {
+    
     class CitadelMain
     {
         /// <summary>Gets or sets chunk sizes for transformed files.</summary>
