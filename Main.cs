@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
@@ -6,7 +6,6 @@ using System.Security.Cryptography;
 
 namespace lzma
 {
-    
     class CitadelMain
     {
         /// <summary>Gets or sets chunk sizes for transformed files.</summary>
