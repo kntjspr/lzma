@@ -13,7 +13,7 @@ namespace lzma {
             string encryptionKey, extension, fullPath, savePath, action;
             byte[] encryptionKeyBytes;
             CitadelMain.Mode conversionMode;
-            string defaultKey = @ "LLp53sQt%BDPmKn?";
+            string defaultKey = @ "LLp53sQt%BDPmKn?"; //Hard coded default key, will be used unless specified in args!
             // filePath and fileName used to split fullPath (Currently not used. Initially created to implement predetermined filenames.)
             #
             endregion
